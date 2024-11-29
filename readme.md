@@ -21,11 +21,11 @@ FYI: La pokedex es el listado de todos los pokemon con sus nombres e imagenes. P
 - Permite la búsqueda de Pokémon por nombre. Si no exite deberá aparecer un mensaje de "pokemon no encontrado"
 - Mira como aceder al pokemon por nombre en la documentación.
 - Maneja eventos de botones y actualiza dinámicamente la interfaz.
-- aquí la documentación de pokemon `https://pokeapi.co/docs/v2`
+- aquí la documentación de pokemon ``
 
 ### Paso 4: Mejoras Adicionales
 - Agrega estilos adicionales.
-- Mejora la interactividad de la aplicación.
+- Mejora la interactividad de la aplicación.https://pokeapi.co/docs/v2
 - Personaliza la presentación de la información de Pokémon.
 
 debe quedar algo similar a esto:
