@@ -254,7 +254,7 @@ botonBuscar.addEventListener('click', async () => {
 });
 
 favorito.addEventListener('click', () => {
-    window.location.href = "newindex.html";
+    window.location.href = "favoritos.html";
 });
 
 (async () => {
